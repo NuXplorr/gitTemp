@@ -1,0 +1,6 @@
+c:\users\robert\documents\visual studio 2013\Projects\Dashboard\Dashboard\bin\Dashboard.dll.config
+c:\users\robert\documents\visual studio 2013\Projects\Dashboard\Dashboard\bin\Dashboard.dll
+c:\users\robert\documents\visual studio 2013\Projects\Dashboard\Dashboard\bin\Dashboard.pdb
+c:\users\robert\documents\visual studio 2013\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2013\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.dll
+c:\users\robert\documents\visual studio 2013\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
